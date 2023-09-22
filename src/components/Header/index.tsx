@@ -1,7 +1,9 @@
 export const Header = () => {
+    console.log('Header')
+
     return (
       <header>
-        <p>Calcular milhas com bônus</p>
+        <h1>Calcular milhas com bônus</h1>
       </header>
     )
   }
